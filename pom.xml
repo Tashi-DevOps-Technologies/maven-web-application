@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.38.5:9980/mithuntechnologies/repository/walmart-releases/</url>
+	      <name>Tashi Technologies Releases Nexus Repository</name>
+	      <url>http://172.31.6.58:8081/repository/Walmart_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.38.5:9980/mithuntechnologies/repository/walmart-snapshot/</url>
+	      <name>Tashi Technologies Snapshot Nexus Repository </name>
+	      <url>http://172.31.6.58:8081/repository/Walmart_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
